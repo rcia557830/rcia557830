@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rumar Benedict Cia</h1>
-<h3 align="center">A passionate IT student form the Philippines</h3>
+<h3 align="center">A passionate IT student from the Philippines</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
